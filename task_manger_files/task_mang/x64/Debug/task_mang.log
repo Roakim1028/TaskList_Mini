@@ -1,0 +1,3 @@
+﻿  task_mang.cpp
+C:\Users\Admin\source\repos\task_mang\task_mang\task_mang.cpp(267,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  task_mang.vcxproj -> C:\Users\Admin\source\repos\task_mang\x64\Debug\task_mang.exe
